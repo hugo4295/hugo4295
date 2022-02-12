@@ -1,5 +1,5 @@
 ### Victor Hugo De la O Martinez
-
+![Texto alternativo](./imagen/LogosEscuelas.png)
 <!--
 **hugo4295/hugo4295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
